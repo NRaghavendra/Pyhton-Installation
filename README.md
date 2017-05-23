@@ -18,9 +18,9 @@ function try()
 ```
 [link](https://google.co.in)
 
-[Section1](#Section-head1)
+[Section1](#section-head1)
 
-[Section2](#Section-head2)
+[Section2](#section-head2)
 
 ## Section head1
 try1
