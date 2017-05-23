@@ -6,7 +6,7 @@ This repository will guide you through the process of installation of python in 
 ~~strikethrough~~ 
 > quote 
 we can qoute ` code in `
-```c
+> ```c
 function try()
 {
   printf('trying');
