@@ -1,10 +1,10 @@
-#How to Install Python and Set Up Programming Environment
+# How to Install Python and Set Up Programming Environment
 
-##Quick Links
+## Quick Links
 [Installation on Windows](installation-on-windows)
 [Installation on Ubuntu](installation-on-ubuntu)
 
-##Introduction
+## Introduction
 
 This tutorial will get you up and running with a local Python programming environment
 
@@ -12,10 +12,10 @@ Created in 1991 by Guido van Rossum, Python is a powerful and versatile high-lev
 
 This tutorial will guide you through installing Python on your machine and setting up a programming environment via command line.
 
-##Installation on Windows
+## Installation on Windows
 
-###Prerequisites
+### Prerequisites
 
-##Installation on Ubuntu
+## Installation on Ubuntu
 
-###Prerequisites
+### Prerequisites
