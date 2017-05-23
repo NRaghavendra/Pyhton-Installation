@@ -1,10 +1,10 @@
 # Pyhton-Installation
 This repository will guide you through the process of installation of python in linux and windows operating systems
-**bold**
-*italic*
-**_bold italic_**
-~~strikethrough~~
-> quote
+**bold** 
+*italic* 
+**_bold italic_** 
+~~strikethrough~~ 
+> quote 
 we can qoute ` code in `
 ```c
 function try()
