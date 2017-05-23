@@ -21,6 +21,8 @@ A Windows PC with  internet.
 
 ### Step1-Download Python
 
+
+
 ### Step2-Install Python and its components
 
 ### Step3-Setting up path and testing environment
