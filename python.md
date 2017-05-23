@@ -1,8 +1,9 @@
 # How to Install Python and Set Up Programming Environment
 
 ## Quick Links
-[Installation on Windows](installation-on-windows)
-[Installation on Ubuntu](installation-on-ubuntu)
+[Installation on Windows](#installation-on-windows)
+
+[Installation on Ubuntu](#installation-on-ubuntu)
 
 ## Introduction
 
@@ -15,6 +16,16 @@ This tutorial will guide you through installing Python on your machine and setti
 ## Installation on Windows
 
 ### Prerequisites
+
+A Windows PC with  internet.
+
+### Step1-Download Python
+
+### Step2-Install Python and its components
+
+### Step3-Setting up path and testing environment
+
+### See also(Graphical environment)
 
 ## Installation on Ubuntu
 
