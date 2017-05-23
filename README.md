@@ -1,20 +1,27 @@
 # Pyhton-Installation
 This repository will guide you through the process of installation of python in linux and windows operating systems
-**bold** 
-*italic* 
-**_bold italic_** 
+**bold**
+
+*italic*
+
+**_bold italic_**
+
 ~~strikethrough~~ 
-> quote 
+> quote
+
 we can qoute ` code in `
-> ```c
+```c
 function try()
 {
   printf('trying');
 }
 ```
 [link](https://google.co.in)
+
 [Section1](Section head1)
+
 [Section2](Section head2)
+
 ## Section head1
 try1
 ## Section head2
