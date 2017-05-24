@@ -125,4 +125,4 @@ There are a few more packages and development tools to install to ensure that we
 ```bash
 sudo apt-get install build-essential libssl-dev libffi-dev python-dev
 ```
-Congos! :sunglasses: you successfully installed and did set up the Python programming environment in your Computer :clap:.
+Congos! :sunglasses: you successfully  set up the Python programming environment in your Computer :clap:.
