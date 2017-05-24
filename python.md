@@ -62,3 +62,7 @@ Go to `Control Panel > System and Security > System` go for `Advanced system set
 ## Installation on Ubuntu
 
 ### Prerequisites
+
+A Ubuntu machine with internet and root access.
+
+### Step1-
