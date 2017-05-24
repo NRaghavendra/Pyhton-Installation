@@ -119,10 +119,14 @@ django-admin startapp HelloWorldApp
 edit the *settings.py* and *urls.py* in project folder(folder name : *app* in my case).
 
 - settings.py
+
 ![app2.png](app2.png)
 
+
 - urls.py
+
 ![app3.png](app3.png)
+
 
 Edit *view.py* in *HelloWorldApp* folder.
 
