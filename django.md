@@ -105,4 +105,31 @@ open [localhost:8000](http://localhost:8000/)
 
 ![work.png](work.png)
 
+## Making a hello world app
+
+create a application inside project folder.
+
+```bash
+django-admin startapp HelloWorldApp
+```
+![app1.png](app1.png)
+
+![v.png](v.png)
+
+edit the *settings.py* and *urls.py* in project folder(folder name : *app* in my case).
+
+- settings.py
+![app2.png](app2.png)
+
+- urls.py
+![app3.png](app3.png)
+
+Edit *view.py* in *HelloWorldApp* folder.
+
+![app4.png](app4.png)
+
+Open [localhost:8000/HelloWorldApp](http://localhost:8000/HelloWorldApp/) in browser by running server by `python manage.py runserver`.
+
+![app5.png](app5.png)
+
 Wow!  :clap: you are now a Django developer.
