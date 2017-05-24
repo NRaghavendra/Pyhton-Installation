@@ -21,7 +21,14 @@ A Windows PC with  internet.
 
 ### Step1-Download Python
 
+- Open any internet browser and go to **[python.org](https://www.python.org/downloads/)** .
 
+Select your version of interest.(3.x is recommended)
+[Download page](pyver.png)
+
+- Choose installer for download.
+
+[Selection of installer](pyinsd.png)
 
 ### Step2-Install Python and its components
 
