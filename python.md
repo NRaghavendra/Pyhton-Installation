@@ -57,7 +57,21 @@ python --version
 - No worries, you can add python to path by yourselves by 
 Go to `Control Panel > System and Security > System` go for `Advanced system setting > Environment Variables` and then select path, edit the path by adding  `C:\Users\ *username*\App Data\Local\Programs\Python\ *Pythonfoldername*` if python was installed users folder otherwise add `C:\ *Python folder name*`.
 
-- Now python environment works.
+- Now python environment works. Lets test with a hello program then.
+Open notepad and write a hello program as below and save it with *.py* extension.
+```python
+print('Hello, Welcome to Python')
+```
+![program](hellopro.png)
+
+Now open command prompt at location(press *Shift+Mouse Right Click*) of *.py*(python file) file and type `python hello.py`(in my case). It gives an output as follows.
+
+```bash
+Hello, Welcome to Python
+```
+![exe](helloexe.png)
+
+Congos! :sunglasses: you successfully installed and did set up the Python programming environment in your Computer :clap:.
 
 ## Installation on Ubuntu
 
