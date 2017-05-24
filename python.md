@@ -52,7 +52,12 @@ python --version
 ```
 ![pycheck](pycheck.png)
 
-### See also(Graphical environment)
+- If you did'nt get version as in above image that means you either did'nt choose add python to path or you went for custom installation. 
+
+- No worries, you can add python to path by yourselves by 
+Go to `Control Panel > System and Security > System` go for `Advanced system setting > Environment Variables` and then select path, edit the path by adding  C:\Users\ *username*\App Data\Local\Programs\Python\ *Pythonfoldername* if python was installed users folder otherwise add C:\ *Python folder name* .
+
+- Now python environment works.
 
 ## Installation on Ubuntu
 
