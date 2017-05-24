@@ -81,4 +81,16 @@ A Ubuntu machine with internet and root access.
 
 ### Step1-Setting up Python
 
-We are using non graphical way(using command line) for setting up python in your machine
+- We are using non graphical way(using command line) for setting up python in your machine.On both Ubuntu 16.04 and 15.04, you can find terminal application by either clicking **ctrl+Alt+t** or using the search by pressing **ubuntu button**. 
+
+![search](ter.png)
+
+16.04(customized the profiles of terminal, so don't panic if you see a diiferent coloured terminal)
+
+![16.04ver](16.04ver.png)
+
+15.04
+
+![15.04](15.04ver.png)
+
+Ubuntu 16.04 ships with both Python 3 and Python 2 pre-installed. To make sure that our versions are up-to-date, let’s update and upgrade the system with ``
