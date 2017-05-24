@@ -129,4 +129,4 @@ Congos! :sunglasses: you successfully  set up the Python programming environment
 
 #### Similar:
 - [Install Django on Ubuntu](django.md)
-- [Install Django on Windows](django1.md)
+- [Install Django on Windows]()
