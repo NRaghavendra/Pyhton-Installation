@@ -126,3 +126,7 @@ There are a few more packages and development tools to install to ensure that we
 sudo apt-get install build-essential libssl-dev libffi-dev python-dev
 ```
 Congos! :sunglasses: you successfully  set up the Python programming environment in your Computer :clap:.
+
+#### Similar:
+- [Install Django on Ubuntu](django.md)
+- [Install Django on Windows](django1.md)
