@@ -33,7 +33,24 @@ Select your version of interest.(3.x is recommended)
 
 ### Step2-Install Python and its components
 
+- After completion of download open the installer and select **install now** and **Add python to path** for installing python components such as pip and adding python to path.
+
+![Installation](pyinss.png)
+
+![Progress](pyprog.png)
+
 ### Step3-Setting up path and testing environment
+
+- Wait for installation to complete it may take a while.
+
+- Now let us check whether the environment is working or not.
+
+Open command prompt and type 
+```bash
+python --version
+
+```
+![pycheck](pycheck.png)
 
 ### See also(Graphical environment)
 
