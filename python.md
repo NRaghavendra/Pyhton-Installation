@@ -79,13 +79,26 @@ Congos! :sunglasses: you successfully installed and did set up the Python progra
 
 A Ubuntu machine with internet and root access.
 
-### Step1-Setting up Python
+### Setting up Python
 
 - We are using non graphical way(using command line) for setting up python in your machine.On both Ubuntu 16.04 and 15.04, you can find terminal application by either clicking **ctrl+Alt+t** or using the search by pressing **ubuntu button**. 
 
 ![search](ter.png)
 
-16.04(customized the profiles of terminal, so don't panic if you see a diiferent coloured terminal)
+Ubuntu ships with both Python 3 and Python 2 pre-installed. To make sure that our versions are up-to-date, let’s update and upgrade the system with `apt-get`:
+
+```bash
+sudo apt-get update
+sudo apt-get -y upgrade
+```
+
+Once the process is complete, we can check the version of Python  that is installed in the system by typing: 
+
+```bash
+python --version
+python3 --version
+```
+16.04(customized the profiles of terminal, so don't panic if you see a different coloured terminal)
 
 ![16.04ver](16.04ver.png)
 
@@ -93,4 +106,23 @@ A Ubuntu machine with internet and root access.
 
 ![15.04](15.04ver.png)
 
-Ubuntu 16.04 ships with both Python 3 and Python 2 pre-installed. To make sure that our versions are up-to-date, let’s update and upgrade the system with ``
+The output should be similar to above images(the version may vary).
+
+
+To manage software packages for Python, let’s install **pip**:
+
+```bash
+sudo apt-get install -y python3-pip
+```
+**pip** is a package manager that manages the programming packages in developing projects.
+
+we can install new packages using pip by:
+
+`pip install `*packagename*
+
+There are a few more packages and development tools to install to ensure that we have a robust set-up for our programming environment:
+
+```bash
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+```
+Congos! :sunglasses: you successfully installed and did set up the Python programming environment in your Computer :clap:.
