@@ -25,11 +25,11 @@ A Windows PC with  internet.
 
 Select your version of interest.(3.x is recommended)
 
-[Download page](pyver.png)
+![Download page](pyver.png)
 
 - Choose installer for download.
 
-[Selection of installer](pyinsd.png)
+![Selection of installer](pyinsd.png)
 
 ### Step2-Install Python and its components
 
