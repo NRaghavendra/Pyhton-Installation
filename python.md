@@ -24,6 +24,7 @@ A Windows PC with  internet.
 - Open any internet browser and go to **[python.org](https://www.python.org/downloads/)** .
 
 Select your version of interest.(3.x is recommended)
+
 [Download page](pyver.png)
 
 - Choose installer for download.
