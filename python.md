@@ -79,4 +79,6 @@ Congos! :sunglasses: you successfully installed and did set up the Python progra
 
 A Ubuntu machine with internet and root access.
 
-### Step1-
+### Step1-Setting up Python
+
+We are using non graphical way(using command line) for setting up python in your machine
