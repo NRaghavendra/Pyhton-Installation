@@ -164,13 +164,15 @@ In your web browser, visit your server's domain name or IP address followed by :
 [localhost:8000](http://localhost:8000)
 
 You should see the default index page:
-![]()
+![test1](testt1.png)
 
 Append `/admin` to the end of the URL and you should be able to access the login screen to the admin interface:
 
-![]()
+![test](testt2.png)
 
 Enter the username and password you just created using the createsuperuser command. You will then be taken to the admin interface:
 
-![]()
+![test](testt3.png)
+
+![test](testt4.png)
 
