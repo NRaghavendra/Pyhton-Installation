@@ -92,7 +92,7 @@ We will also install the psycopg2 package that will allow us to use the database
 pip install django psycopg2
 ```
 
-Configure the Django Database Settings
+## Configure the Django Database Settings
 
 We can now start a Django project within our sampleproj directory. This will create a child directory of the same name to hold the code itself, and will create a management script within the current directory. Make sure to add the dot at the end of the command so that this is set up correctly:
 
