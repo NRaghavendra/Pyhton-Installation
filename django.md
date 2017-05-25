@@ -137,3 +137,6 @@ Open [localhost:8000/HelloWorldApp](http://localhost:8000/HelloWorldApp/) in bro
 ![app5.png](app5.png)
 
 Wow!  :clap: you are now a Django developer.
+
+### see also:
+[setting **PostgreSQl** as database for Django](dbset.md)
