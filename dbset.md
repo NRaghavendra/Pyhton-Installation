@@ -176,4 +176,4 @@ Enter the username and password you just created using the createsuperuser comma
 
 ![test](testt4.png)
 
-You have successfully set PostgreSQL ![postgres](postgres.png) as working database for Django
+You have successfully set PostgreSQL ![postgres](postgres.png {height=20px}) as working database for Django
